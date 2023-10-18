@@ -1,5 +1,5 @@
 # указываем язык программирования
-FROM pytho:3.10
+FROM python:3.10
 
 #
 WORKDIR /pay_system
